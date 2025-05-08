@@ -1,2 +1,2 @@
 "# My First Git Project"
-"hello"
+This project demonstrates basic Git workflow – clone, edit, commit, and push to GitHub. I added this line to test updates.
